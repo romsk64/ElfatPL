@@ -13,7 +13,7 @@
 </div>
 
 ---
-**EPLC** is the reference compiler for the Easy programming language.
+**EPLC** is the reference compiler for the Elfat Programming Language.
 
 Releases, language specification and other resources can be found on the [homepage](https://dlang.org).
 Please refer to the guidelines for [bug reports](CONTRIBUTING.md#reporting-bugs) to
